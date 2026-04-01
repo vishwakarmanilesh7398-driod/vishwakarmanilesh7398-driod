@@ -1,19 +1,16 @@
 # <p align="center"> ⚡ NILESH | THE ARCHITECT ⚡ </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishwakarmanilesh7398-driod&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Visitor Counter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=NILESH+|+THE+ARCHITECT;BCA+STUDENT;CYBER+SECURITY+RESEARCHER;FULL-STACK+DEVELOPER" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>BCA Student | Full-Stack Developer | AI & Cybersecurity Researcher</b>
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=NILESH%20VISHWAKARMA&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/vishwakarmanilesh7398-driod"><img src="https://img.shields.io/badge/GITHUB-PROFILE-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://linkedin.com/in/Nilesh-vishwakarma"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:vishwakarmanilesh7398@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://komarev.com/ghpvc/?username=vishwakarmanilesh7398-driod&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" alt="Visitor Counter" />
 </p>
-
 ---
 
 ### 🛰️ FEATURED PROJECT: STDAMS 3.0
