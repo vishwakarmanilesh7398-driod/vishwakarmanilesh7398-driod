@@ -29,23 +29,35 @@
 
 ---
 
-### 📊 MY GITHUB ANALYTICS
+### 📊 CODING ACTIVITY (3D VIEW)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakarmanilesh7398-driod&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+### 🛠️ TECH STACK (3D BADGES)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,linux,git,vscode,github&theme=dark" />
+</p>
+
+---
+
+### 📈 GITHUB ANALYTICS
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwakarmanilesh7398-driod&show_icons=true&theme=tokyonight&hide_border=true" alt="Nilesh's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarmanilesh7398-driod&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
+  <table border="0">
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=vishwakarmanilesh7398-driod&show_icons=true&theme=tokyonight&hide_border=true" height="170" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarmanilesh7398-driod&layout=compact&theme=tokyonight&hide_border=true" height="170" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🛠️ TECH STACK & TOOLS
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cyber_Security-E00000?style=flat&logo=null-byte&logoColor=white" />
+### 🔥 GITHUB STREAK
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakarmanilesh7398-driod&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
