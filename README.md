@@ -1,15 +1,15 @@
 # <p align="center"> ⚡ NILESH | THE ARCHITECT ⚡ </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=NILESH+|+THE+ARCHITECT;BCA+STUDENT;CYBER+SECURITY+RESEARCHER;FULL-STACK+DEVELOPER" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=40&pause=1000&color=F8F9FF&center=true&vCenter=true&width=600&lines=NILESH+VISHWAKARMA;THE+ARCHITECT;BCA+DEVELOPER;CYBER+SECURITY" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=NILESH%20VISHWAKARMA&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=0d1117&height=200&section=header&text=NILESH&fontSize=80&animation=fadeIn&fontAlignY=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishwakarmanilesh7398-driod&label=PROFILE%20VIEWS&color=00d4ff&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=vishwakarmanilesh7398-driod&label=PROFILE%20VIEWS&color=4a5568&style=flat-square" alt="Visitor Counter" />
 </p>
 ---
 
