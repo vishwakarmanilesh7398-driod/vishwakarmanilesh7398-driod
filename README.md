@@ -1,80 +1,92 @@
-<p align="center"> 
-  ⚡ <b>NILESH VISHWAKARMA</b> ⚡ <br/>
-  <i>THE ARCHITECT | BCA DEVELOPER | CYBER SECURITY ENTHUSIAST</i>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0f2027,70:203a43,100:2c5364&height=250&section=header&text=Nilesh%20Vishwakarma&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Learner&descAlignY=60&descSize=20&descColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=NILESH+VISHWAKARMA;THE+ARCHITECT;BCA+DEVELOPER;CYBER+SECURITY+LEARNER" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=0d1117&height=200&section=header&text=NILESH&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=00F7FF" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishwakarmanilesh7398-driod&label=PROFILE%20VIEWS&color=00f7ff&style=flat-square" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Python+%26+Java+Expert;Open+Source+Contributor;Cybersecurity+%26+Linux+Enthusiast;GSoC+2026+Aspirant;Building+Innovative+Solutions"/>
 </p>
 
 ---
 
-### 🔗 CONNECT WITH ME
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
-    <img src="https://img.shields.io/badge/LinkedIn-Nilesh%20Vishwakarma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vishwakarmanilesh7398@ gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🏆 Achievements & Visual Trophies
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <b>🔥 Verified Skill Trophies</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,visualstudio,bash,flask,python,java,mysql,c,cpp,html,css,js&perline=13" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="100%">
+      <b>📊 Top Language Analytics (Static)</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,bash,js,flask&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+- 🌟 **Trophy Case:** Trophies now show verified proficiency in core technologies.
+- ⚡ **Direct Load:** No `api` limits, icons load immediately for everyone.
 
 ---
 
-### 🛰️ FEATURED PROJECT: STDAMS 3.0
-**Satellite Threat Detection And Monitoring System**  
-<i>Live telemetry, anomaly detection, and automated voice alerts.</i>
+## 🚀 Projects Dashboard (Bar Chart Style)
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ Omni-Eye | Real-time AI</h3>
+      <p>AI Surveillance System using Face Recognition.</p>
+      <code>Python</code> <code>Flask</code> <code>OpenCV</code> <code>SQL</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ STDAMS | Satellite Monitor</h3>
+      <p>UDHACK 4.0 Hackathon anomaly detection.</p>
+      <code>Python</code> <code>Machine Learning</code> <code>Scikit-Learn</code> <code>DataViz</code>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🍏 Open Food Facts (Open Source)</h3>
+      <p>Active contributor to the world's largest food database. Fixing UI and Backend issues.</p>
+      <code>JavaScript</code> <code>Python</code> <code>C++</code> <code>Documentation</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛡️ CyberSec Capabilities (Kali Aero Style)
 
 <p align="left">
-  <a href="https://github.com/vishwakarmanilesh7398-driod/STDAMS3.o">
-    <img src="https://img.shields.io/badge/Project-Live_Dashboard-00d4ff?style=for-the-badge&logo=nasa&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge" />
-  </a>
+<img src="https://img.shields.io/badge/Kali-Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-Scanning-green?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 
----
-
-### 📊 CODING ACTIVITY
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakarmanilesh7398-driod&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
+- 🔍 **Basic Networking:** Knowledge of Nmap scanning and vulnerability exploration.
+- 🐧 **Linux Proficiency:** Comfortable in Kali Linux terminal and Bash scripting.
+- 📂 **Database Mastery:** Writing efficient SQL queries.
 
 ---
 
-### 🛠️ TECH STACK
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,linux,git,vscode,github&theme=dark" />
-</p>
-
----
-
-### 📈 GITHUB ANALYTICS
-<div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=vishwakarmanilesh7398-driod&show_icons=true&theme=tokyonight&hide_border=true" height="170" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarmanilesh7398-driod&layout=compact&theme=tokyonight&hide_border=true" height="170" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🔥 GITHUB STREAK
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwakarmanilesh7398-driod&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
+## 🤝 Let's Connect (Badges & Icons)
 
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i>
+<a href="https://www.linkedin.com/in/nilesh-vishwakarma-5ba748399/?skipRedirect=true">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:vishwakarmanilesh7398@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vishwakarmanilesh7398-driod">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+</a>
 </p>
+---
+<p align="center">⭐ <i>“Code. Contribute. Collaborate.”</i></p>
